@@ -1,5 +1,11 @@
 # Alfa integrations changelog
 
+## [0.81.8](../../compare/v0.81.7...v0.81.8) (2026-04-08)
+
+### Changed
+
+- [@siteimprove/alfa-angular](packages/alfa-angular/CHANGELOG.md#0818): Dummy release.
+
 ## [0.81.7](../../compare/v0.81.6...v0.81.7) (2026-04-08)
 
 ### Changed

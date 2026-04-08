@@ -1,5 +1,11 @@
 # @siteimprove/alfa-angular
 
+## 0.81.8
+
+### Patch Changes
+
+- **Changed:** Dummy release. ([`28dc212`](https://github.com/Siteimprove/alfa-integrations/commit/28dc212303e6a6a23fd11e3b25a64eb32461788c))
+
 ## 0.81.7
 
 ### Patch Changes
