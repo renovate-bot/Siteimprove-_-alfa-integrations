@@ -1,5 +1,7 @@
 # @siteimprove/alfa-vitest
 
+## 0.82.0
+
 ## 0.81.10
 
 ### Patch Changes

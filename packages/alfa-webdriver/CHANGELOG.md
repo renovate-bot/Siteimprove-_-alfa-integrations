@@ -1,5 +1,11 @@
 # @siteimprove/alfa-webdriver
 
+## 0.82.0
+
+### Patch Changes
+
+- **Added:** A `WebElement.Type` alias is now available for `WebdriverIO.Element`. ([#331](https://github.com/Siteimprove/alfa-integrations/pull/331))
+
 ## 0.81.10
 
 ### Patch Changes

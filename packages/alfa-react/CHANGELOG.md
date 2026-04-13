@@ -1,5 +1,13 @@
 # @siteimprove/alfa-react
 
+## 0.82.0
+
+### Minor Changes
+
+- **Breaking:** `React.toNode` and `React.toPage` now return `Future` rather than `Promise`. ([#331](https://github.com/Siteimprove/alfa-integrations/pull/331))
+
+  `Future` can still be awaited like `Promise`.
+
 ## 0.81.10
 
 ### Patch Changes

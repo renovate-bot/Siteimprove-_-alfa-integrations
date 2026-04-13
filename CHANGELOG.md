@@ -1,5 +1,15 @@
 # Alfa integrations changelog
 
+## [0.82.0](../../compare/v0.81.10...v0.82.0) (2026-04-13)
+
+### Breaking
+
+- [@siteimprove/alfa-react](packages/alfa-react/CHANGELOG.md#0820): `React.toNode` and `React.toPage` now return `Future` rather than `Promise`. ([#331](https://github.com/Siteimprove/alfa-integrations/pull/331))
+
+### Added
+
+- [@siteimprove/alfa-webdriver](packages/alfa-webdriver/CHANGELOG.md#0820): A `WebElement.Type` alias is now available for `WebdriverIO.Element`. ([#331](https://github.com/Siteimprove/alfa-integrations/pull/331))
+
 ## [0.81.10](../../compare/v0.81.9...v0.81.10) (2026-04-10)
 
 ### Changed
